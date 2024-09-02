@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hey there 👋, I'm 3or4</h1>
+<h1 align="center">Hey there 👋, I'm missvanshika09</h1>
   
 <h3 align="center">I'm a passionate frontend developer who loves to create beautiful and responsive web applications.</h3>
 
